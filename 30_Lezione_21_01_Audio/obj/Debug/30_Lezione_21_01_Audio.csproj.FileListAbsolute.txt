@@ -1,0 +1,82 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-audio.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\coffin_anim.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\ear.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Adventure.wav
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\cannonShoot.wav
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\coffin_dance.wav
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Dark_Cave.wav
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Mistery.wav
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_1.ogg
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_2.ogg
+D:\AIV - 2021 - 2022\Lessons\PR 1\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\Frame.png
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\coffin_anim.png
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\ear.png
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\Frame.png
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Adventure.wav
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\cannonShoot.wav
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\coffin_dance.wav
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Dark_Cave.wav
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Mistery.wav
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_1.ogg
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_2.ogg
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe.config
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.pdb
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-audio.dll
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.dll
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.dll
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.xml
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.exe
+C:\Users\aless\OneDrive\Desktop\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\coffin_anim.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\ear.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Graphics\Frame.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Adventure.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\cannonShoot.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\coffin_dance.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Dark_Cave.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\Mistery.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_1.ogg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\Assets\Sounds\wood_crack_2.ogg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe.config
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\30_Lezione_21_01_Audio.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-audio.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\NVorbis.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Audio\30_Lezione_21_01_Audio\obj\Debug\30_Lezione_21_01_Audio.pdb
